@@ -1,0 +1,19 @@
+<div class="container">
+ <main role="main" class="container">
+  <div class="text-center mb-4">
+    
+    <h1>Oops!.. Sorry Something Went Wrong</h1>
+   
+      <div class="col-sm-4 mx-auto">
+      
+      <h1 ><code>Error 404!</code></h1>
+       <p>Page Not Found <code></code></p>
+   <p>
+  <a class="btn btn-primary" href="" role="button">Go Back </a>
+ </p>
+</div>
+</div>
+</main>
+</div>
+
+</html>
