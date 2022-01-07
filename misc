@@ -1,0 +1,26 @@
+<div class="container">
+ <main role="main" class="container">
+   <div class=" d-flex align-items-center p-3 my-3 text-white-50 bg-purple rounded shadow-sm ">
+    <img class="mr-5" src="http://localhost/Projects/Tutorial/src/bootstrap-outline.png" alt="" width="93" height="93">
+    <div class="lh-100">
+      <h6 class="mb-0 text-white lh-100">URL Rewite using Php and HtaccessTutorial</h6>
+      <small><b>Another exercise #2</b></small>
+    </div>
+  </div>
+<br>
+
+  <main role="main">
+    <div class="jumbotron">
+      <div class="col-sm-8 mx-auto">
+        <h1>Another examples</h1>
+        <p>Another quick exercise to illustrate how the navbar and its contents work using<code> PHP</code>. For Navigating to pages without displaying <a href="">index.php</a> or other <a href="">.php</a> filename extension.</p>
+        <p>At this point, you will need a bootstrap ready-to-use compiled code to have this type of design . Get started with <a href="https://github.com/twbs/bootstrap/releases/download/v4.3.1/bootstrap-4.3.1-dist.zip">Bootstrap</a>, the world’s most popular framework for building responsive, mobile-first sites, with BootstrapCDN and a template starter page.</p>
+        <p>
+          <a class="btn btn-primary" href="" role="button">« Back</a> <a class="btn btn-primary" href="" role="button">Next »</a>
+        </p>
+      </div>
+    </div>
+  </main>
+</div>
+
+</html>
